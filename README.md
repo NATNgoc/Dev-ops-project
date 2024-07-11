@@ -1,4 +1,4 @@
 ## DevOps Project for Beginners   
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
-"# Dev-ops-project" 
+![image](https://github.com/NATNgoc/Dev-ops-project/assets/96611889/f0a6d654-95e7-4359-a93c-7b2354099591)
+Pipeline included within this project
